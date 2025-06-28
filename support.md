@@ -4,7 +4,7 @@ Welcome to the support page for **ToDoodle Checklist**.
 
 If you're experiencing issues, have questions, or want to share feedback, feel free to contact us:
 
-📧 **Email**: [support@todoodle.app](mailto:hfranco5232@gmail.com)
+📧 **Email**: [hfranco5232@gmail.com](mailto:hfranco5232@gmail.com)
 
 ---
 
