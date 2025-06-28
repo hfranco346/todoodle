@@ -4,7 +4,7 @@ Welcome to the support page for **ToDoodle Checklist**.
 
 If you're experiencing issues, have questions, or want to share feedback, feel free to contact us:
 
-📧 **Email**: [support@todoodle.app](mailto:support@todoodle.app)
+📧 **Email**: [support@todoodle.app](mailto:hfranco5232@gmail.com)
 
 ---
 
@@ -20,7 +20,7 @@ A: Only your task lists and their completion state, which are stored locally or 
 
 ## Related Links
 
-🔒 [Privacy Policy](https://tu-usuario.github.io/todoodle-privacy-policy/privacy-policy)
+🔒 [Privacy Policy](https://hfranco346.github.io/todoodle/privacy-policy)
 
 ---
 
